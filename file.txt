@@ -1,2 +1,6 @@
 bb
+<<<<<<< HEAD
 cc
+=======
+new
+>>>>>>> 0c70482 (Update file.txt in line 2)
