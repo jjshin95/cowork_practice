@@ -1,2 +1,6 @@
 bb
+<<<<<<< HEAD
 cc
+=======
+new
+>>>>>>> e3998fe (Update file.txt in line 2)
